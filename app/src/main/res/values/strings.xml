@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">animations</string>
+    <string name="zoom_in" />
+    <string name="zoom_out" />
+    <string name="fade_in" />
+    <string name="fade_out" />
+    <string name="slide_left" />
+    <string name="slide_right" />
+    <string name="slide_up" />
+    <string name="slide_down" />
+    <string name="zoom_in_fade_in" />
+    <string name="zoom_out_fade_out" />
+    <string name="rotate" />
+    <string name="move" />
+
+
+    <string name="zoomin">Zoom In</string>
+    <string name="zoomout">Zoom Out</string>
+    <string name="fadein">Fade In</string>
+    <string name="fadeout">Fade Out</string>
+    <string name="slideleft">Slide Left</string>
+    <string name="slideright">Slide Right</string>
+    <string name="slideup">Slide Up</string>
+    <string name="slidedown">Slide Down</string>
+    <string name="zoominfadein">Zoom In Fade In</string>
+    <string name="zoomoutfadeout">Zoom Out Fade Out</string>
+    <string name="Rotate">Rotate</string>
+    <string name="Move">Move</string>
+
+</resources>
